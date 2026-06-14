@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated Reports
+*.csv
+*.png
+
+# OS Files
+.DS_Store
+Thumbs.db
